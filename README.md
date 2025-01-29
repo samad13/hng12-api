@@ -22,4 +22,4 @@ This is a simple public API that returns basic information in JSON format.
 
 3. node index.js
 
-4. [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers) 
+[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers) 
