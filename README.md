@@ -10,7 +10,7 @@
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/samad13/hng12-api"
 }
-
+```  
 
 1. git clone https://github.com/samad13/hng12-api
 2. npm install
