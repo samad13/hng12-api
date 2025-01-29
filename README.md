@@ -1,7 +1,3 @@
-# HNG12 Public API
-
-This is a simple public API that returns basic information in JSON format.
-
 ## API Documentation
 
 ### Endpoint
@@ -17,9 +13,7 @@ This is a simple public API that returns basic information in JSON format.
 
 
 1. git clone https://github.com/samad13/hng12-api
-
 2. npm install
-
 3. node index.js
 
-[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers) 
+[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
